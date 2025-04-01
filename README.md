@@ -1,22 +1,25 @@
-## 💻 Tech Stack (Usage)
+## 💻 Tech Stack (숙련도)
 
 ### ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-<img src="https://progress-bar.dev/50/?title=Java&width=300&color=yellow" />
+숙련도: ★★★☆☆ (50%)
 
 ### ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-<img src="https://progress-bar.dev/80/?title=JavaScript&width=300&color=orange" />
+숙련도: ★★★★☆ (80%)
 
 ### ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  
-<img src="https://progress-bar.dev/60/?title=Spring&width=300&color=green" />
+숙련도: ★★★☆☆ (60%)
 
-### ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)  
-<img src="https://progress-bar.dev/80/?title=DB(Oracle,+MariaDB)&width=300&color=blue" />
+### ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)  
+숙련도: ★★★★☆ (80%)
 
 ### ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
-<img src="https://progress-bar.dev/90/?title=SQL&width=300&color=purple" />
+숙련도: ★★★★★ (90%)
 
 ### ![Script](https://img.shields.io/badge/Script-4B8BBE?style=for-the-badge&logo=code&logoColor=white)  
-<img src="https://progress-bar.dev/80/?title=Script+Deployment&width=300&color=gray" />
+숙련도: ★★★★☆ (80%)
+
+
 
 
 ## 🛠️ Projects
